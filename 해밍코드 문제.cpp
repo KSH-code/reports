@@ -1,4 +1,5 @@
 // 최적화, 가독성은 고려 안함
+// 해밍 코드 (Hamming Code)
 
 #include <iostream>
 #include <vector>
