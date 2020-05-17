@@ -1,3 +1,5 @@
+// 최적화, 가독성은 고려 안함
+
 #include <iostream>
 #include <vector>
 
